@@ -12,10 +12,10 @@ import os
 import kdbai_client as kdbai
 
 
-LLAMA_CLOUD_API_KEY = 'llx-ENZJhDMjXLMWiSjwPRAwTlSokFtgWyOgcsVmSj6ChDDcQMpM'
-OPENAI_API_KEY = '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'
+LLAMA_CLOUD_API_KEY = ''
+OPENAI_API_KEY = ''
 KDBAI_ENDPOINT = 'https://cloud.kdb.ai/instance/ik2m7kqk35'
-KDBAI_API_KEY = '075364370d-UAbb07S5NDDCrqzW0YgRL1BN4apOsgyvkGshozDlbHQcyjRSuNFDz2IEG136JDWHvI0Mqt+8R4DCgEiX'
+KDBAI_API_KEY = ''
 
 #connect to KDB.AI
 session = kdbai.Session(api_key=KDBAI_API_KEY, endpoint=KDBAI_ENDPOINT)
