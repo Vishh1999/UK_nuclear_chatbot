@@ -7,8 +7,8 @@ import requests
 from bs4 import BeautifulSoup
 
 # API Keys
-KDBAI_ENDPOINT = 'https://cloud.kdb.ai/instance/ik2m7kqk35'
-KDBAI_API_KEY = '075364370d-UAbb07S5NDDCrqzW0YgRL1BN4apOsgyvkGshozDlbHQcyjRSuNFDz2IEG136JDWHvI0Mqt+8R4DCgEiX'
+KDBAI_ENDPOINT = ''
+KDBAI_API_KEY = ''
 
 # Connect to KDB.AI
 session = kdbai.Session(api_key=KDBAI_API_KEY, endpoint=KDBAI_ENDPOINT)

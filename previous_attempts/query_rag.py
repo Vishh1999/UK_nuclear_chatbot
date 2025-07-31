@@ -3,8 +3,8 @@ from sentence_transformers import SentenceTransformer
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 # API Keys
-KDBAI_ENDPOINT = 'https://cloud.kdb.ai/instance/ik2m7kqk35'
-KDBAI_API_KEY = '075364370d-UAbb07S5NDDCrqzW0YgRL1BN4apOsgyvkGshozDlbHQcyjRSuNFDz2IEG136JDWHvI0Mqt+8R4DCgEiX'
+KDBAI_ENDPOINT = ''
+KDBAI_API_KEY = ''
 KDBAI_TABLE_NAME = "LlamaParse_Table"
 
 # Connect to KDB.AI

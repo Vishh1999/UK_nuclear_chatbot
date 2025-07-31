@@ -14,7 +14,7 @@ import kdbai_client as kdbai
 
 LLAMA_CLOUD_API_KEY = ''
 OPENAI_API_KEY = ''
-KDBAI_ENDPOINT = 'https://cloud.kdb.ai/instance/ik2m7kqk35'
+KDBAI_ENDPOINT = ''
 KDBAI_API_KEY = ''
 
 #connect to KDB.AI
