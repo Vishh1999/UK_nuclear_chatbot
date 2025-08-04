@@ -27,6 +27,7 @@ It’s specifically designed for:
 
 ## Directory Structure
 UK_nuclear_chatbot/
+│
 ├── pdf_files/              # UK nuclear regulatory PDF files
 ├── previous_attempts/      # Archived early prototypes
 ├── nuclear_chatbot 2.py    # Final working chatbot code with GUI
